@@ -22,7 +22,7 @@ This document outlines a final project focused on analyzing the impact of social
 * The analysis might be affected by multicollinearity (intercorrelation between independent variables).
 * Certain factors like the inflation rate and unemployment rate have limitations in their current form (e.g., not transformed for better modeling).
 
-**Tools and libraries::**
+**Tools and libraries:**
 
 * Pandas
 * NumPy
